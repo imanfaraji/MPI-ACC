@@ -12,7 +12,7 @@ Run make clean to delete the current installation
 # Running
 
 benchmark_name: <br />
-        +2DSTENCIL: <br />
+        <TAB><TAB> +2DSTENCIL: <br />
                 input: <br />
                         -type: "cpu" or "gpu" <br />
                         -size <br />
