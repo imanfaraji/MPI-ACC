@@ -11,26 +11,26 @@ Run make clean to delete the current installation
 
 # Running
 
-benchmark_name: 
-        +2DSTENCIL: 
-                input: 
-                        -type: "cpu" or "gpu" 
-                        -size 
-                        -dim_wght 
-                        -dim_x 
-                        -dim_y 
-        +3DTORUS: 
-                input: 
-                        -type: "cpu" or "gpu" 
-                        -size 
-                        -dim_wght 
-                        -dim_x 
-                        -dim_y 
-                        -dim_z 
-        +COLLSUBCOMM: 
-                input: 
-                        -type: "cpu" or "gpu" 
-                        -size 
-                        -dim_x_keep 
-                        -dim_y_keep 
-                        -dim_z_keep 
+benchmark_name: <br />
+        +2DSTENCIL: <br />
+                input: <br />
+                        -type: "cpu" or "gpu" <br />
+                        -size <br />
+                        -dim_wght <br />
+                        -dim_x <br />
+                        -dim_y <br />
+        +3DTORUS: <br />
+                input: <br />
+                        -type: "cpu" or "gpu" <br />
+                        -size <br />
+                        -dim_wght <br />
+                        -dim_x <br />
+                        -dim_y <br />
+                        -dim_z <br />
+        +COLLSUBCOMM: <br />
+                input: <br />
+                        -type: "cpu" or "gpu" <br />
+                        -size <br />
+                        -dim_x_keep <br />
+                        -dim_y_keep <br />
+                        -dim_z_keep <br />
