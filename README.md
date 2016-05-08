@@ -1,3 +1,5 @@
+The Copyright of this work goes to Iman Faraji. 
+
 # MPI-ACC
 A benchmark suit for MPI on clusters with GPU accelerators 
 
