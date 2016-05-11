@@ -1,9 +1,9 @@
 The Copyright of this work goes to Iman Faraji. 
 
 # MPI-ACC
-A benchmark suit for MPI on clusters with GPU accelerators 
+A benchmark suite for MPI on clusters with GPU accelerators 
 
-MPI-ACC is a benchmark suit that I have developed for evaluating communication performance of the clusters with GPU accelerators. This benchmark currently includes 3 communication patterns: 1) 2d-5point Stencil; 2) 3D-Torus; and 3) Collective on a sub communicator and allows multiple of them to run concurrently on the CPU and/or on the GPU. 
+MPI-ACC is a benchmark suite that I have developed for evaluating communication performance of the clusters with GPU accelerators. This benchmark currently includes 3 communication patterns: 1) 2d-5point Stencil; 2) 3D-Torus; and 3) Collective on a sub communicator and allows multiple of them to run concurrently on the CPU and/or on the GPU. 
 
 # Installing:
 Change the Makefile and set your own MPI and CUDA library paths.
